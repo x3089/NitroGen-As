@@ -7,7 +7,7 @@ import time
 # Portfolio: https://x3089.github.io/
 # Discord: _x3089
 
-print("Our project is https://github.com/OddDevelopment/OperaGX-Nitro-Gen please give it a star to support the project <3.\n\nMore about me: https://odd.rip\n\n\n")
+print("Our project is https://github.com/x3089/NitroGen-As please give it a star to support the project <3.\n\nMore about me: https://github.com/x3089")
 
 def get_token():
   url = "https://api.gx.me/profile/token"
@@ -19,7 +19,7 @@ def get_token():
       'authority':
       'api.gx.me',
       'cookie':
-      'SESSION_TYPE=user; SESSION=NzFjMjg3NDAtMDhkOC00ODkwLWJhNzEtODA0YTcwMjNiM2U0',
+      'SESSION_TYPE=user; SESSION=NzFjMjg3NDAtMDhkOC00ODkwLWJhNzEtODA0YTcwMjNiM2U0',   #Token of a random person that you shouldn't be interested in knowing who it is
       'origin':
       'https://www.opera.com',
       'referer':
